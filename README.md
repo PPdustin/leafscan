@@ -1,6 +1,6 @@
 # leafscan
 
-A new Flutter project.
+AI-Based Classification of Corn Leaf Diseases Using Convolutional Neural Network
 
 ## Getting Started
 
