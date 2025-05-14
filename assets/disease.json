@@ -1,0 +1,23 @@
+{
+    "Corn Rust": {
+      "Description": "Corn rust is a fungal disease causing small pustules on corn leaves, leading to reduced photosynthesis and yield losses.",
+      "Prevention": "Use resistant hybrids, ensure clean seed, practice deep ploughing of crop residues, and remove weeds like Oxalis spp.",
+      "Treatment": "Spray fungicides at the first sign of infection; two applications may be necessary. Contact local extension offices for specific fungicide advice."
+    },
+    "Leaf Blight": {
+      "Description": "Leaf blight is a disease causing lesions on corn leaves, often resulting in reduced plant health and yield.",
+      "Prevention": "Plant blight-resistant varieties, rotate corn every three years, clean up infected debris, and compost or destroy infected stalks.",
+      "Treatment": "Use foliar fungicides, especially during tasseling/silking stages. Preventative applications are most effective."
+    },
+    "Maize Streak Virus": {
+      "Description": "Maize streak virus is a viral disease transmitted by leafhoppers, causing streaked patterns on leaves and impacting plant growth.",
+      "Prevention": "Plant during early seasons when viral inoculum is low, use streak-resistant cultivars, and control leafhopper vectors with insecticides like carbofuran.",
+      "Treatment": "Remove and destroy infected plants early to prevent spread. Use insecticides to control leafhoppers before virus infection."
+    },
+    "Brown Spot": {
+      "Description": "Brown spot is a fungal disease causing small lesions on corn leaves, often leading to defoliation and yield reduction.",
+      "Prevention": "Use resistant varieties, clean up debris, rotate corn fields, and avoid planting in humid or water-prone areas.",
+      "Treatment": "Manage with cultural practices; fungicides may not be highly effective. Remove infected residues and practice good tillage."
+    }
+  }
+  
