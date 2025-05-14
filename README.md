@@ -1,6 +1,8 @@
 # leafscan
 
-AI-Based Classification of Corn Leaf Diseases Using Convolutional Neural Network
+Classification of Corn Leaf Diseases Using Convolutional Neural Network
+
+[Watch Video](https://youtu.be/Jq-Kp7_OCLU)
 
 ## Getting Started
 
