@@ -104,6 +104,17 @@ flutter run
 
 ---
 
+## 🧠 Credits
+
+This application and the integrated machine learning model are based on the research conducted by:
+
+- **Dale Anthony Agreda**, 
+- **Ivan James Estores**,
+- **Olsen John Gabriel Provido**,
+- **Dustin Wata**
+
+---
+
 
 
 
