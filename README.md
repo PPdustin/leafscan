@@ -1,5 +1,4 @@
 
-
 ## 🌿 LeafScan - Corn Leaf Disease Detection Model 
 
 This repository integrates a deep learning model developed to classify **corn leaf diseases** commonly found in **Polomolok and General Santos City, Philippines**. The model powers the LeafScan mobile application to assist farmers in early and accurate disease identification using their smartphone cameras.
@@ -72,14 +71,39 @@ The trained model is deployed via the **LeafScan app**, built with **Flutter** a
 
 ---
 
-### 🔭 Future Work
+## 🚀 Getting Started (Android Only)
 
-* Expand model to detect additional diseases (e.g., Banded Leaf and Sheath Blight, Downy Mildew)
-* Conduct formal **User Acceptance Testing (UAT)**
-* Collaborate with agricultural experts for wider data collection
-* Explore integration with government or NGO agriculture assistance programs
+This Flutter application is intended to run on **Android** devices. Follow the steps below to set it up and run it locally.
+
+### ✅ Prerequisites
+
+Make sure you have the following installed:
+
+* [Flutter SDK](https://flutter.dev/docs/get-started/install)
+* [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/) with Flutter & Dart plugins
+* An Android device or emulator
+
+### 🛠️ Installation Steps
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/PPdustin/leafscan.git
+cd leafscan
+
+# 2. Get the Flutter packages
+flutter pub get
+
+# 3. Run the app on a connected Android device or emulator
+flutter run
+```
+
+### 💡 Notes
+
+* Run `flutter doctor` to ensure your environment is correctly set up for Android development.
+* If your device is not recognized, ensure USB debugging is enabled (for physical devices) or start an emulator.
 
 ---
+
 
 
 
