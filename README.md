@@ -3,6 +3,11 @@
 
 This repository integrates a deep learning model developed to classify **corn leaf diseases** commonly found in **Polomolok and General Santos City, Philippines**. The model powers the LeafScan mobile application to assist farmers in early and accurate disease identification using their smartphone cameras.
 
+<p align="center">
+  <img src="leafscan.jpeg" alt="leafscan" width="400"/>
+</p>
+
+
 ---
 
 ### 📊 Dataset
