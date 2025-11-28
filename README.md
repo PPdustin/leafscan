@@ -1,5 +1,5 @@
 
-## 🌿 LeafScan - Corn Leaf Disease Detection Model 
+## LeafScan - Corn Leaf Disease Detection Model 
 
 This repository integrates a deep learning model developed to classify **corn leaf diseases** commonly found in **Polomolok and General Santos City, Philippines**. The model powers the LeafScan mobile application to assist farmers in early and accurate disease identification using their smartphone cameras.
 
@@ -10,7 +10,7 @@ This repository integrates a deep learning model developed to classify **corn le
 
 ---
 
-### 📊 Dataset
+### Dataset
 
 We initially collected **1,576 raw images** of corn leaves from local farms in selected barangays. These were categorized into five classes:
 
@@ -33,7 +33,7 @@ This process expanded the dataset to **27,146 images**, ensuring class balance (
 
 ---
 
-### 🧠 Model Architecture
+### Model Architecture
 
 We fine-tuned a **ResNet34** Convolutional Neural Network, pretrained on ImageNet, tailored for agricultural disease detection.
 
@@ -47,7 +47,7 @@ Key model details:
 
 ---
 
-### 📈 Model Performance
+### Model Performance
 
 The model achieved a **98.67% overall accuracy** with excellent class-wise metrics:
 
@@ -63,7 +63,7 @@ The confusion matrix showed the model correctly classified **4,162 out of 4,218 
 
 ---
 
-### 📱 Mobile App Integration
+### Mobile App Integration
 
 The trained model is deployed via the **LeafScan app**, built with **Flutter** and integrated using **PyTorch Lite**. The app supports:
 
@@ -76,11 +76,11 @@ The trained model is deployed via the **LeafScan app**, built with **Flutter** a
 
 ---
 
-## 🚀 Getting Started (Android Only)
+## Getting Started (Android Only)
 
 This Flutter application is intended to run on **Android** devices. Follow the steps below to set it up and run it locally.
 
-### ✅ Prerequisites
+### Prerequisites
 
 Make sure you have the following installed:
 
@@ -88,7 +88,7 @@ Make sure you have the following installed:
 * [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/) with Flutter & Dart plugins
 * An Android device or emulator
 
-### 🛠️ Installation Steps
+### Installation Steps
 
 ```bash
 # 1. Clone the repository
@@ -102,14 +102,14 @@ flutter pub get
 flutter run
 ```
 
-### 💡 Notes
+### Notes
 
 * Run `flutter doctor` to ensure your environment is correctly set up for Android development.
 * If your device is not recognized, ensure USB debugging is enabled (for physical devices) or start an emulator.
 
 ---
 
-## 🧠 Credits
+## Credits
 
 This application and the integrated machine learning model are based on the research conducted by:
 
